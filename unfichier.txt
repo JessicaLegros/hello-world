@@ -1,1 +1,2 @@
 J'ajoute du texte dans ce fichier pour pouvoir en faire quelque chose ensuite.
+Et maintenant, depuis ma machine
