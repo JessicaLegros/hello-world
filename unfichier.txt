@@ -1,2 +1,4 @@
 J'ajoute du texte dans ce fichier pour pouvoir en faire quelque chose ensuite.
-Et maintenant, depuis ma machine
+Et maintenant, depuis ma machine.
+
+Dans ma nouvelle branche, je modifie mon fichier :)
