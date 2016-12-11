@@ -2,3 +2,4 @@ J'ajoute du texte dans ce fichier pour pouvoir en faire quelque chose ensuite.
 Et maintenant, depuis ma machine.
 
 Dans ma nouvelle branche, je modifie mon fichier :)
+Maintenant, une modification sur du fichier dans la nouvelle branche pour créer un conflit !
